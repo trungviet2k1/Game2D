@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Door
+  - NextLevel
+  - Coin
+  - Enemy
+  - GoldKey
+  - Box
+  - GreenKey1
+  - Checkpoint
+  - Button
+  - Door7
+  - Door8
+  - GreenKey4
+  - GreenKey2
+  - GreenKey5
+  - GreenKey6
+  - GreenKey3
+  - Door4
+  - Door3
+  - Boss
+  - MovingPlatform
+  - Player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Box
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1463052973
+    locked: 0
+  - name: Foreground
+    uniqueID: 2171248807
+    locked: 0
+  - name: Terrain
+    uniqueID: 3241806849
+    locked: 0
+  - name: Ground
+    uniqueID: 2195110003
+    locked: 0
+  - name: Player
+    uniqueID: 3581987537
+    locked: 0
+  - name: Enemy
+    uniqueID: 2297325919
+    locked: 0
